@@ -1,0 +1,24 @@
+# Binaries
+server
+
+# Git and VCS
+.git
+.gitignore
+
+# Node/Python caches (if any appear)
+node_modules
+__pycache__
+
+# Go build cache and modules
+bin
+pkg
+*.test
+
+# Docker and CI directories
+.github
+
+# IDE/editor
+.vscode
+.idea
+.DS_Store
+
